@@ -1,6 +1,6 @@
 # british-airways-data-science-internship
-The entire project is divided into two tasks.
-Task 1: Web scrapping to gain company insights
+The entire project is divided into two tasks.\n
+Task 1: Web scrapping to gain company insights\n
 Dataset - BA_reviews.csv
 ipynb - tcs_britishairways_task1.ipynb
 ppt - british_airways_task_insights.pptx
